@@ -1,0 +1,32 @@
+body {
+  background: #333;
+}
+
+.workflow {
+  max-width: 258px;
+  max-height: 401px;
+  float: left;
+}
+
+.creative {
+  margin-left: -75px;
+  margin-top: 23px;
+  max-width: 278px;
+  max-height: 391px;
+  float: left;
+}
+
+.development {
+  margin-left: -104px;
+  margin-top: 20px;
+  max-width: 265px;
+  max-height: 394px;
+  float: left;
+}
+
+.svg {
+  width: 500px;
+  max-width: 100%;
+  height: auto;
+  align-self: baseline;
+}
